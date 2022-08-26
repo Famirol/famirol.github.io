@@ -2,10 +2,11 @@
 title: "Serfaus Hochseilgarten"
 date: 2022-08-24
 categories:
-  - blog
+  - Action
 tags:
   - Action
   - Hochseilgarten
+  - Klettern
 ---
 
 Hochseilgarten in Serfaus

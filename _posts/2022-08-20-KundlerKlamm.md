@@ -2,12 +2,12 @@
 title: "Kundler Klamm"
 date: 2022-08-22
 categories:
-  - blog
+  - Wanderung
 tags:
   - Kinderwagen
   - Klamm
   - Alpincoaster
-  - Action
+  - Wanderung
 ---
 
 ## Anfahrt
