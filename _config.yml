@@ -14,12 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Famirol
-email:
+email: info.famirol@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Familien-Wanderungen in Tirol mit den Öffis
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -57,7 +54,7 @@ plugins:
 
 author:
   name   : "Famirol"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Famirol.jpg"
   bio    : "Familienausflüge in Tirol mit den Öffis"
   links:
     - label: "YouTube"
