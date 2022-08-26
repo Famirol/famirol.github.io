@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Familien-Wanderungen in Tirol mit den Öffis
 search: true
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "aqua"
+
 
 # Build settings
 markdown: kramdown
