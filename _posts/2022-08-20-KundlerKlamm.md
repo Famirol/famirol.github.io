@@ -40,5 +40,5 @@ tags:
 * **Alpincoaster**: kaum Wartezeiten
 * Kostenpflichtiges Trampolin,  5D Kino, Bike Trail, XL Tubejump etc.
 * Kugelbahn (Holzkugel 2€ aus dem AUtomaten)
-* gratis FLoß-Spielplatz
+* gratis Floß-Spielplatz
 * Mit dem Bus retour nach Wörgl Hauptbahnhof (30min)
