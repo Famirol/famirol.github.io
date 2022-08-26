@@ -8,6 +8,8 @@ tags:
   - Hochseilgarten
 ---
 
+Hochseilgarten in Serfaus
+
 ## Anfahrt
 
 * Mit dem Zug nach Landeck-Zams
@@ -19,3 +21,4 @@ tags:
 * [X-Trees](https://www.patscheider.com/de/shops-erlebnisorte/fun-outdoor/x-trees-waldseilpark)
 * Öffnungszeiten: Mo Ruhetag, 9:00-18:00
 * Registrierung vor Ort oder online möglich
+* -50% Gutschein im Familienheft (2022)
