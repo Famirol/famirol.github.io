@@ -2,7 +2,7 @@ main:
   - title: "Ausflüge"
     url: /posts/
   - title: "Kategorien"
-    url: /categories/
+    url: /kategorien/
   - title: "Tags"
     url: /tags/
   - title: "Über"
