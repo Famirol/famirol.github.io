@@ -1,5 +1,5 @@
 name: Famirol
-# avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+avatar: images/FamirolIcon.png # Avatar image. Default to "images/profile.webp".
 bio: 'Familie'
 company: Familie # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
 location: Mond # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
