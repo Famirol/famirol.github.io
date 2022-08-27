@@ -1,0 +1,2 @@
+{{- $res := partial "rss" . }}
+{{- replace $res "{year}" now.Year 1 | safeHTML -}}

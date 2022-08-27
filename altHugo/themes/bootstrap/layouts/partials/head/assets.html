@@ -1,0 +1,9 @@
+{{- partial "assets/google-adsense" . -}}
+{{- if  eq .Site.Language.LanguageDirection "rtl" }}
+  {{- partial "assets/main/css-rtl" . }}
+{{- else }}
+  {{- partial "assets/main/css" . }}
+{{- end }}
+{{- partial "assets/math/css" . }}
+{{- partial "assets/viewer/css" . }}
+{{- partial "assets/docsearch/css" . -}}

@@ -1,0 +1,9 @@
+.btn-scroll-to-top {
+  bottom: 1.5rem;
+  transition: opacity 0.5s;
+  right: 1.25rem;
+
+  @include media-breakpoint-down(sm) {
+    right: 0.75rem;
+  }
+}

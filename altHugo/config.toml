@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-de'
+title = 'Famirol'
+theme = 'bootstrap'
+

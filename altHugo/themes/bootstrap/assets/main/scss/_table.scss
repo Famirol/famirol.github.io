@@ -1,0 +1,9 @@
+table {
+  @extend .table; /* stylelint-disable-line */
+  @if ($table-bordered) {
+    @extend .table-bordered; /* stylelint-disable-line */
+  }
+  @if ($table-hover) {
+    @extend .table-hover; /* stylelint-disable-line */
+  }
+}
