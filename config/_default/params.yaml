@@ -17,7 +17,7 @@ logo: images/Famirol.jpg # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
 brand: Famirol
 
-palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: indigo # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
 # palettes:
 #  - blue
@@ -194,6 +194,4 @@ repo:
 
 topAppBar:
   social:
-    github: razonyang/hugo-theme-bootstrap
-    patreon: razonyang
-    paypal: razonyang
+    discord: https://dsc.gg/gravijet
