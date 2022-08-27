@@ -1,0 +1,9 @@
+[submodule "themes/bootstrap"]
+	path = themes/bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/universal"]
+	path = themes/universal
+	url = https://github.com/devcows/hugo-universal-theme
