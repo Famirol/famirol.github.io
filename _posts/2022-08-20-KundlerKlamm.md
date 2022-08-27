@@ -12,6 +12,7 @@ tags:
 
 ## Anfahrt
 
+* [Karte auf Google Maps](https://www.google.com/maps/d/edit?mid=1jUP1p3EaW13X_xGHVWQh3Gt6SuRccdk&usp=sharing)
 * Mit dem Zug nach Kundl
 * Danach mit Bus 8311 zur Haltestelle "Kundl Klammstraße/Unterführung" oder 30min Fußweg
 * Die Klamm ist im Winter gesperrt
