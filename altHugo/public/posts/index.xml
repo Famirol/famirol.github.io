@@ -1,51 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Famirol</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Famirol</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    <lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Radfahren</title>
-      <link>http://example.org/posts/2022-08-27-radfahren/</link>
-      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/2022-08-27-radfahren/</guid>
-      <description>Radfahrmöglichkeiten in Tirol
-Offizielle Radrouten#radrouting.tirol Öffis#Zug: eigenes Rad-Ticket notwendig IVB (Innsbruck): Wochentags ist die Fahrradmitnahme nur zwischen 09:00–15:00 Uhr sowie 18:30–06:00 Uhr möglich. Bei Bussen mit Fahrrad-Befestigung hinten (zB. meistens bei der J- oder A-Linie( ist die Mitnahme den ganzen Tag über möglich. Diese Busse werden auf den Haltestellenmonitore mit einen eigenen Fahrrad-Mitnahme-Icon gekennzeichnet. Hungerburgbahn (Innsbruck): Kostenloser Radtransport in der Hungerburgbahn von 7:15-10:00 und ab 16:30. Ansonsten muss ein Bike-Ticket erworben werden.</description>
-    </item>
-    
-    <item>
-      <title>Serfaus Hochseilgarten</title>
-      <link>http://example.org/posts/2022-08-24-serfaushochseilgarten/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/2022-08-24-serfaushochseilgarten/</guid>
-      <description>Hochseilgarten in Serfaus
-Anfahrt#Mit dem Zug nach Landeck-Zams Mit Bus 220 zur Haltestelle &amp;ldquo;Serfaus Parkcafe&amp;rdquo; oder &amp;ldquo;Serfaus Muiren&amp;rdquo;, (ca. 50min) Von der Bushaltestelle/Parkplatz ca. 5min Fußweg durch den Wald X-Trees Waldseilpark#X-Trees Öffnungszeiten: Mo Ruhetag, 9:00-18:00 Registrierung vor Ort oder online möglich -50% Gutschein im Familienheft (2022) </description>
-    </item>
-    
-    <item>
-      <title>Radurschl Alm</title>
-      <link>http://example.org/posts/2022-08-23-radurschlalm/</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/2022-08-23-radurschlalm/</guid>
-      <description>Alm bei Pfunds
-Anfahrt#Karte auf Google Maps Von Prutz im Tiroler Oberland&amp;hellip; mit dem Wanderbus (2022: jeden Dienstag) in ca. 1h zum Parkplatz Wildmoos Wanderung#Ca. 1h Fußweg auf Forststraße (kinderwagentauglich) bis kurz vor der Radurschlalm. Am Wegrand gab es einige Beeren (Preiselbeeren, Himbeeren, Heidelbeeren - Augsut 2022) Skulpturenpark: Ca. 10min weiter auf dem Forstweg von der Radurschlalm; dort gibt es einige Holz-Skulpturen, eine Holzhütte, Grillmöglichkeit und einen kleinen See zum Kneippen Evtl.</description>
-    </item>
-    
-    <item>
-      <title>Kundler Klamm</title>
-      <link>http://example.org/posts/2022-08-20-kundlerklamm/</link>
-      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/2022-08-20-kundlerklamm/</guid>
-      <description>Anfahrt#Karte auf Google Maps Mit dem Zug nach Kundl Danach mit Bus 8311 zur Haltestelle &amp;ldquo;Kundl Klammstraße/Unterführung&amp;rdquo; oder 30min Fußweg Die Klamm ist im Winter gesperrt Start#Beginn am Parkplatz beim großen Kinderspielplatz Öffentliches WC und Trinkwasserbrunnen am Klammeingang Wanderung#Ca. 30min durch die Klamm auf kinderwagentauglichen Forstweg Einkehrmöglichkeit bei Gasthaus Kundler Klamm Spielmöglichkeiten entglang der Klamm beim Wasser Schautafeln mit Info über Geologie der Kundler Klamm Märchen-Geschichte, wenn man die Klamm in umgekehrter Richtung von der Wildschönau nach Kundl geht Ende#Die Wanderung durch die Klamm hört bei der Haltestelle des Bummelzugs auf Man kann mit dem Bummelzug zur Bushaltestelle &amp;ldquo;Mühltal Färberwirt&amp;rdquo; fahren (Familienkarte 2022: 15€) oder geht 2km durch Felder dorthin zu Fuß Von dort zum Familienpark Drachental (Bus 4064 zur Haltestelle &amp;ldquo;Oberau Mittelschule&amp;rdquo;) oder direkt nach Wörgl Hauptbahnhof Familienpark Drachental#Alpincoaster: kaum Wartezeiten Kostenpflichtiges Trampolin, 5D Kino, Bike Trail, XL Tubejump etc.</description>
-    </item>
-    
-  </channel>
-</rss>
-
