@@ -1,4 +1,4 @@
 +++
-title = "Contact Us"
+title = "Kontaktiere uns"
 layout = "contact"
 +++

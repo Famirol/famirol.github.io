@@ -4,8 +4,8 @@ description: Gopher, PHPer, Full Stack Engineer.
 social:
   github: razonyang
   twitter: razonyang
-  email: razonyang@gmail.com
-  website: https://razonyang.com/
+  email: info.famirol@gmail.com
+  website: https://gravijet.github.io
   patreon: razonyang
   paypal: razonyang
 ---
