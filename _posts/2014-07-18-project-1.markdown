@@ -9,5 +9,5 @@ client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1jUP1p3EaW13X_xGHVWQh3Gt6SuRccdk&ehbc=2E312F" width="640" height="480"></iframe>
+
 ---
