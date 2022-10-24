@@ -1,9 +1,0 @@
-main:
-  - title: "Ausflüge"
-    url: /posts/
-  - title: "Kategorien"
-    url: /kategorien/
-  - title: "Tags"
-    url: /tags/
-  - title: "Über"
-    url: /about/
