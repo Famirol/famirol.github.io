@@ -3,7 +3,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 // Base setup for builds, needed for og tags and correct image paths
 // (mostly for github pages deployment, see build-deploy.yaml)
-const baseUrl = 'https://famirol.github.io/' || 'http://localhost:8080';
+const baseUrl = process.env.BASE_URL || 'http://localhost:8080';
 // e.g. 'https://mandrasch.github.io/'
 const pathPrefix = process.env.PATH_PREFIX || '/';
 // e.g. '/11ty-plain-boostrap5/'
