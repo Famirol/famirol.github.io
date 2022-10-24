@@ -2,7 +2,7 @@
 layout: base
 eleventyNavigation:
   key: Radurschl Alm
-  order: 1
+  order: 2
 ---
 
 
