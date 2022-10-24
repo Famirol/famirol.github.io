@@ -6,5 +6,6 @@
   },
   "files.associations": {
     "*.njk": "html"
-  }
+  },
+  "git.ignoreLimitWarning": true
 }
