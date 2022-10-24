@@ -10,7 +10,8 @@
     "dev:mix": "mix watch",
     "build:eleventy": "eleventy",
     "build:mix": "mix --production",
-    "build": "npm-run-all clean -s build:mix build:eleventy"
+    "build": "npm-run-all clean -s build:mix build:eleventy",
+    "build:win": "npm-run-all build:mix build:eleventy"
   },
   "repository": {
     "type": "git",
