@@ -1,11 +1,11 @@
 ---
 layout: base
 eleventyNavigation:
-  key: About
+  key: Über
   order: 1
 ---
 
-## About us
+## Über Famirol
 
 **This was written in Markdown.**
 
