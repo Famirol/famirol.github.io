@@ -2,7 +2,6 @@
 layout: base
 eleventyNavigation:
   key: Kundler Klamm
-  order: 1
 ---
 
 ## Anfahrt

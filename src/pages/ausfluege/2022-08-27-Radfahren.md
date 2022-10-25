@@ -2,7 +2,6 @@
 layout: base
 eleventyNavigation:
   key: Radfahren
-  order: 4
 ---
 
 

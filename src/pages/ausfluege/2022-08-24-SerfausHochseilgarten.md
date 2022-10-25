@@ -2,7 +2,7 @@
 layout: base
 eleventyNavigation:
   key: Serfaus Hochseilgarten
-  order: 3
+
 ---
 
 
