@@ -1,6 +1,5 @@
 ---
 layout: base
-
   key: Radfahren
 ---
 
@@ -14,7 +13,7 @@ Radfahrmöglichkeiten in Tirol
 ## Öffis
 
 - [Zug](https://www.oebb.at/de/regionale-angebote/tirol/rad-und-zug): eigenes Rad-Ticket notwendig
-- [IVB](https://www.ivb.at/fahrgast/mobilitaet/news/raeder-willkommen/) (Innsbruck): Wochentags ist die Fahrradmitnahme nur zwischen 09:00–15:00 Uhr sowie 18:30–06:00 Uhr möglich. Bei Bussen mit Fahrrad-Befestigung hinten (zB. meistens bei der J- oder A-Linie( ist die Mitnahme den ganzen Tag über möglich. Diese Busse werden auf den Haltestellenmonitore mit einen eigenen Fahrrad-Mitnahme-Icon gekennzeichnet. 
+- [IVB](https://www.ivb.at/fahrgast/mobilitaet/news/raeder-willkommen/) (Innsbruck): Wochentags ist die Fahrradmitnahme nur zwischen 09:00–15:00 Uhr sowie 18:30–06:00 Uhr möglich. Bei Bussen mit Fahrrad-Befestigung hinten (zB. meistens bei der J- oder A-Linie( ist die Mitnahme den ganzen Tag über möglich. Diese Busse werden auf den Haltestellenmonitore mit einen eigenen Fahrrad-Mitnahme-Icon gekennzeichnet.
 - Hungerburgbahn (Innsbruck): Kostenloser Radtransport in der Hungerburgbahn von 7:15-10:00 und ab 16:30. Ansonsten muss ein Bike-Ticket erworben werden.
 - Bus VVT: Radtransport nach Ermessen des Busfahrers evtl. möglich
 - Spezielle Rad-Busse im Ötztal oder Lechtal
