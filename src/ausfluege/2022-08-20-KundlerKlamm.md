@@ -1,6 +1,6 @@
 ---
 layout: base
-eleventyNavigation:
+eleventyNavigationUnused:
   key: Kundler Klamm
 ---
 
