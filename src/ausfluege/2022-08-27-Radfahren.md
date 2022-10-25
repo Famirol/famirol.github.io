@@ -1,5 +1,6 @@
 ---
 layout: base
+eleventyNavigation:
   key: Radfahren
 ---
 

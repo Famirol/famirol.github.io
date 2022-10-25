@@ -1,6 +1,6 @@
 ---
 layout: base
-
+eleventyNavigation:
   key: Kundler Klamm
 ---
 
