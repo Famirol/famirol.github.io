@@ -1,6 +1,7 @@
 ---
 layout: base
-eleventyNavigationUnused:
+eleventyNavigation:
+  parent: Ausflüge
   key: Kundler Klamm
 ---
 
