@@ -1,6 +1,5 @@
 ---
 layout: base
-eleventyNavigation:
   key: Radurschl Alm
 ---
 
