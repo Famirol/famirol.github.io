@@ -42,15 +42,17 @@
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container-fluid">
         <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="32" class="me-2" viewBox="0 0 118 94" role="img">
-            <title>Famirol</title>
-            <path
-              fill-rule="evenodd"
-              clip-rule="evenodd"
-              d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 01-2-2V24a2 2 0 012-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863zM60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207zM49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281 0-5.406-3.903-8.178-11.425-8.178H49.948z"
-              fill="currentColor"
-            ></path>
-          </svg>
+          <picture>
+      <source type="image/webp" srcset="/img/pJsdb0p2_y-40.webp 40w" sizes="100vw">
+  <source type="image/jpeg" srcset="/img/pJsdb0p2_y-40.jpeg 40w" sizes="100vw">
+      <img
+        src="/img/pJsdb0p2_y-40.jpeg"
+        width="40"
+        height="27"
+        alt="Tirol"
+        loading="lazy"
+        decoding="async">
+    </picture>
           <span class="fs-4">Famirol</span>
         </a>
         <button
@@ -80,12 +82,30 @@
                 href="/newsroom/"
                 >
                 Newsroom
-            </a></li><li class="nav-item">
-            <a class="nav-link"
+            </a></li><li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
                 href="/ausfluege/"
-                >
-                Ausflüge
-            </a></li></ul>
+                  role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                id="dropdown-361545">
+                Ausflüge <span class="visually-hidden">Toggle Dropdown Ausflüge</span>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-361545"><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-20-KundlerKlamm/">
+    Kundler Klamm
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-23-RadurschlAlm/">
+    Radurschl Alm
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-24-SerfausHochseilgarten/">
+    Serfaus Hochseilgarten
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-27-Radfahren/">
+    Radfahren
+    </a>
+</li></ul></li></ul>
 
 
 </div>
@@ -106,13 +126,13 @@
 <br /><br />
     </p>
     <a 
-    class="btn btn-primary mb-2" 
+    class="btn btn-primary mb-3" 
       href="https://discord.gg/qTuFXJ3TGH"
       target="_blank">
       Famirol Discord-Server
     </a>
     <a
-      class="btn btn-primary mb-2"
+      class="btn btn-primary mb-3"
       href="https://discord.gg/peuhdejRgX"
       target="_blank"
     >
@@ -136,35 +156,62 @@
       <p>
         Hier kommen immer News über Tirol. Ob Konzert oder Eröffnung, vieles kommt hier hin.
       </p>
-      <a href="/newsroom/" class="btn btn-outline-light">Newsroom</a>
+      <button type="button" class="btn btn-primary position-relative">
+        <a href="/newsroom" class="link-warning">Newsroom</a>
+        <span class="position-absolute top-0 start-100 translate-middle p-2 bg-danger border border-light rounded-circle">
+          <span class="visually-hidden">Neue Nachrichten</span>
+        </span>
+      </button>
     </div>
   </div>
   <div class="col-md-6 mt-3">
     <div class="h-100 p-5 border rounded-3" style="background-color: #ff7979">
-      <h2>Ausflüge</h2>
+      <h2>Ausflug der Woche</h2>
       <p>
-        Hier werden wir immer wieder verschiedene Ausflüge hochladen.
+        Hier ist der Ausflug der Woche. Diese Woche ist es ein Ausflug in die Kundler Klamm.
+        Was es da wohl zu sehen gibt?
       </p>
-      <a href="pages/another_site " class="btn btn-outline-dark">Ausflüge</a>
+      <p> Probiere es doch einfach aus und klicke auf den Button.</p>
+      <a href="/pages/ausfluege/2022-08-20-KundlerKlamm/" class="btn btn-outline-dark">Kundler Klamm</a>
     </div>
   </div>
  
-      <!-- Modal -->
+  <div class="row mt-3">
+    <div class="col-12">
+      <div class="img-fit-cover-container rounded-3 bg-light">
+        <picture>
+      <source type="image/webp" srcset="/img/zYyO-j4uJh-600.webp 600w, /img/zYyO-j4uJh-1200.webp 1200w" sizes="100vw">
+  <source type="image/jpeg" srcset="/img/zYyO-j4uJh-600.jpeg 600w, /img/zYyO-j4uJh-1200.jpeg 1200w" sizes="100vw">
+      <img
+        src="/img/zYyO-j4uJh-600.jpeg"
+        width="1200"
+        height="800"
+        alt="View from top of a mountain onto a sea and another mountain in
+        austria."
+        loading="lazy"
+        decoding="async">
+    </picture>
+      </div>
+    </div>
+  </div>
      
     
   </div>
 </div>
 
-<!-- for debug: {&quot;title&quot;:&quot;Famirol&quot;,&quot;description&quot;:&quot;Familienausflüge in Tirol&quot;,&quot;locale&quot;:&quot;de&quot;,&quot;baseUrl&quot;:&quot;https://Famirol.github.io/&quot;,&quot;pathPrefix&quot;:&quot;/&quot;} {&quot;date&quot;:&quot;2022-10-25T15:40:47.851Z&quot;,&quot;inputPath&quot;:&quot;./src/index.njk&quot;,&quot;fileSlug&quot;:&quot;&quot;,&quot;filePathStem&quot;:&quot;/index&quot;,&quot;outputFileExtension&quot;:&quot;html&quot;,&quot;url&quot;:&quot;/&quot;,&quot;outputPath&quot;:&quot;_site/index.html&quot;} {&quot;lang&quot;:&quot;de&quot;,&quot;title&quot;:&quot;Home&quot;,&quot;image&quot;:&quot;/assets/images/open-graph/teaser.jpeg&quot;,&quot;description&quot;:&quot;Ausflüge und News von und in ganz Tirol&quot;}-->
+<!-- for debug: {&quot;title&quot;:&quot;Famirol&quot;,&quot;description&quot;:&quot;Familienausflüge in Tirol&quot;,&quot;locale&quot;:&quot;de&quot;,&quot;baseUrl&quot;:&quot;https://Famirol.github.io/&quot;,&quot;pathPrefix&quot;:&quot;/&quot;} {&quot;date&quot;:&quot;2022-10-25T17:16:33.015Z&quot;,&quot;inputPath&quot;:&quot;./src/index.njk&quot;,&quot;fileSlug&quot;:&quot;&quot;,&quot;filePathStem&quot;:&quot;/index&quot;,&quot;outputFileExtension&quot;:&quot;html&quot;,&quot;url&quot;:&quot;/&quot;,&quot;outputPath&quot;:&quot;_site/index.html&quot;} {&quot;lang&quot;:&quot;de&quot;,&quot;title&quot;:&quot;Home&quot;,&quot;image&quot;:&quot;/assets/images/open-graph/teaser.jpeg&quot;,&quot;description&quot;:&quot;Ausflüge und News von und in ganz Tirol&quot;}-->
 
       </div>
     </main>
 
     <footer class="container">
-  <p class="float-end"><a href="#">Back to top</a></p>
+  <button type="button" class="btn btn-danger float-end"><a href="#" class="link-warning">Nach oben</a></button>
+
   <p>
-    (C) 2022 Famirol
+    © 2022 Famirol
   </p>
+  <p></p>
+  <p><a a href="ausfluege">.</a></p>
 </footer>
 
     <script type="text/javascript" src="/dist/app.js"></script>

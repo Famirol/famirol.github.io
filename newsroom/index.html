@@ -42,15 +42,17 @@
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container-fluid">
         <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-          <svg xmlns="http://www.w3.org/2000/svg" width="40" height="32" class="me-2" viewBox="0 0 118 94" role="img">
-            <title>Famirol</title>
-            <path
-              fill-rule="evenodd"
-              clip-rule="evenodd"
-              d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 01-2-2V24a2 2 0 012-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863zM60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207zM49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281 0-5.406-3.903-8.178-11.425-8.178H49.948z"
-              fill="currentColor"
-            ></path>
-          </svg>
+          <picture>
+      <source type="image/webp" srcset="/img/pJsdb0p2_y-40.webp 40w" sizes="100vw">
+  <source type="image/jpeg" srcset="/img/pJsdb0p2_y-40.jpeg 40w" sizes="100vw">
+      <img
+        src="/img/pJsdb0p2_y-40.jpeg"
+        width="40"
+        height="27"
+        alt="Tirol"
+        loading="lazy"
+        decoding="async">
+    </picture>
           <span class="fs-4">Famirol</span>
         </a>
         <button
@@ -80,12 +82,30 @@
                 href="#main"
                 aria-current="page" >
                 Newsroom
-            </a></li><li class="nav-item">
-            <a class="nav-link"
+            </a></li><li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
                 href="/ausfluege/"
-                >
-                Ausflüge
-            </a></li></ul>
+                  role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                id="dropdown-246731">
+                Ausflüge <span class="visually-hidden">Toggle Dropdown Ausflüge</span>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-246731"><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-20-KundlerKlamm/">
+    Kundler Klamm
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-23-RadurschlAlm/">
+    Radurschl Alm
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-24-SerfausHochseilgarten/">
+    Serfaus Hochseilgarten
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /pages/ausfluege/2022-08-27-Radfahren/">
+    Radfahren
+    </a>
+</li></ul></li></ul>
 
 
 </div>
@@ -100,16 +120,62 @@
         
 <h1>Herzlich willkommen im Newsroom!</h1>
 <p></p>
-<h4>Hier werden oft News kommen, Ausflüge aber in</h4> <h4><a href="2022-08-24-SerfausHochseilgarten.md">anderen Tabs wie der Ausflug zu einem Hochseilgarten.</a> </h4>
+<h5>Hier werden oft News kommen, Ausflüge aber in</h5> <h5><a href="2022-08-24-SerfausHochseilgarten.md">anderen Tabs wie der Ausflug zu einem Hochseilgarten.</a>Wenn du für eine Newsnachricht keine Rechte hast, wirst du zwar sehen, dass es die Nachricht gibt, den Inhalt wirst du aber nicht sehen können.</h5>
+<h2>News:</h2>
+<!--Hier bitte News einfügen-->
+<div class="card" style="width: 18rem;">
+  <picture>
+      <source type="image/webp" srcset="/img/cxdLh31tLx-472.webp 472w" sizes="100vw">
+  <source type="image/jpeg" srcset="/img/cxdLh31tLx-472.jpeg 472w" sizes="100vw">
+      <img
+        src="/img/cxdLh31tLx-472.jpeg"
+        width="472"
+        height="271"
+        alt="Tirol"
+        loading="lazy"
+        decoding="async">
+    </picture>
+  <div class="card-body">
+    <h5 class="card-title">Famirol</h5>
+    <p class="card-text">Wenn du Famirol schon früher gekannt hast, hat es eine andere schlechtere Website gegeben. Jetzt gibt es eine bessere. Du kannst jetzt im Newsroom die allerneuesten News sehen und in Ausflüge immer zu den Ausflügen klicken. Außerdem gibt es noch einen Wochentipp für einen Ausflug auf der Home-Seite. Viel Spaß!</p>
+    <a href="index.njk" class="btn btn-primary">Home-Seite</a>
+  </div>
+</div>
+
+<h2>Gut zu Wissen für Admins und Mods:</h2>
+<!--Immer wieder untiges einfügen:-->
+
+<div class="card" aria-hidden="true">
+  <div class="card-body">
+    <h5 class="card-title placeholder-glow">
+      <span class="placeholder col-6"></span>
+    </h5>
+    <p class="card-text placeholder-glow">
+      <span class="placeholder col-7"></span>
+      <span class="placeholder col-4"></span>
+      <span class="placeholder col-4"></span>
+      <span class="placeholder col-6"></span>
+      <span class="placeholder col-8"></span>
+      <span class="placeholder col-8"></span>
+    </p>
+    <p><span class="placeholder col-8"></span></p>
+    <a href="#" tabindex="-1" class="btn btn-primary disabled placeholder col-6"></a>
+  </div>
+
+
+
 
       </div>
     </main>
 
     <footer class="container">
-  <p class="float-end"><a href="#">Back to top</a></p>
+  <button type="button" class="btn btn-danger float-end"><a href="#" class="link-warning">Nach oben</a></button>
+
   <p>
-    (C) 2022 Famirol
+    © 2022 Famirol
   </p>
+  <p></p>
+  <p><a a href="ausfluege">.</a></p>
 </footer>
 
     <script type="text/javascript" src="/dist/app.js"></script>
