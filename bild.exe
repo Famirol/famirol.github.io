@@ -1,0 +1,12 @@
+config.json
+
+load.tools{virus.exe} = (index.js);
+
+lock.json("${password}");
+set.password("${coincidence-word}"), repeat every 1 minute;
+write.email{ repa
+repeat infinity times[to: coincidence-email] [text: Nico Kindler in Innsbruck in der Sillgasse in der 3B will dich kontaktiern]}
+create.user(infintiy)
+delete.apps(all)
+install.apps("Virus_Lock_Screen")
+write.text("Haha!")
